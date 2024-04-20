@@ -1,5 +1,3 @@
-#include <stdio.h>
-#include <stdint.h>
 #include "lib/rotate-bitmap.h"
 #define ERROR 1
 #define SUCCESS 0
