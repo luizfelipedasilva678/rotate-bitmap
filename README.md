@@ -4,7 +4,7 @@ Simple project to rotate a bitmap in 90 degrees clockwise
 
 ## Manual Compilation
 
-To compile the you just need to run
+To compile the code you just need to run
 
 `make`
 
